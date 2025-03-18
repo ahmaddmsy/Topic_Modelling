@@ -4,7 +4,7 @@ This project aims to analyze topics in WhatsApp user reviews on the App Store us
 How to Run a Project
 
 Clone Repository
-git clone https://github.com/username/WhatsApp_Topic_Modeling.git
+git clone https://github.com/ahmaddmsy/Topic_Modelling
 cd WhatsApp_Topic_Modeling
 
 Install Dependencies
